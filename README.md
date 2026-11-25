@@ -1,6 +1,6 @@
-# school-family-tracker
+# Seguimiento escolar con Claude
 
-Seguimiento escolar para familias, hecho con [Claude Code](https://claude.com/claude-code) y el portal Notasnet (Syscol). Claude lee los comunicados, la agenda, las notas y las anotaciones del colegio, las deja ordenadas en archivos Markdown y responde preguntas como "¿qué hay mañana?" o "¿qué hay que comprar?".
+Un asistente para papás y mamás que se entera de todo lo del colegio por ti. Hecho con [Claude Code](https://claude.com/claude-code) y el portal Notasnet (Syscol). Claude lee los comunicados, la agenda, las notas y las anotaciones del colegio, las deja ordenadas en archivos Markdown y responde preguntas como "¿qué hay mañana?" o "¿qué hay que comprar?".
 
 > English: a Claude Code project that syncs a school's Notasnet portal (Chile) into plain Markdown files and answers weekly questions about homework, tests, grades and supplies for one or many children.
 
