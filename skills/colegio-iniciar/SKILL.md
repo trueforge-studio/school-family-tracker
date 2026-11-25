@@ -9,7 +9,7 @@ Carpeta de datos: `colegio/` en la raíz del proyecto. Las plantillas están en 
 
 ## Pasos
 1. Si `colegio/familia.md` ya existe, avisa y pregunta si quiere reiniciar (no borres nada sin su confirmación explícita).
-2. Verifica que las herramientas `notasnet_*` estén disponibles (ToolSearch "notasnet"). Si no lo están, explícale que falta instalar el MCP (ver README, sección "Requisitos") y detente. Carga `notasnet_session_status`; si no hay sesión, pídele que inicie sesión él mismo. Nunca escribas su contraseña.
+2. Verifica que las herramientas `notasnet_*` estén disponibles (si tu agente las carga bajo demanda, búscalas por "notasnet"). Si no lo están, explícale que falta instalar el MCP (ver README, sección "Requisitos") y detente. Carga `notasnet_session_status`; si no hay sesión, pídele que inicie sesión él mismo. Nunca escribas su contraseña.
 3. Descubre a los hijos con `notasnet_list_students` (y `notasnet_get_student_info` si hace falta). Muéstrale lo encontrado (nombre, curso, ID de alumno) y confirma que sean los correctos.
 4. Pregúntale, de una sola vez:
    - una **etiqueta corta** para cada hijo (por ejemplo la inicial; sirve para marcar [A], [C] en los pendientes);
