@@ -14,8 +14,10 @@ Seguimiento escolar para familias, hecho con [Claude Code](https://claude.com/cl
 | `colegio-papel` | Ingresa la agenda o el panel en papel (foto o texto) |
 
 ## Requisitos
+Este repositorio es **solo el sistema** (skills, plantillas y reglas). No incluye el acceso a Notasnet: eso lo da un MCP, que es un proyecto aparte.
+
 1. [Claude Code](https://claude.com/claude-code).
-2. El MCP de Notasnet: [trueforge-studio/notasnet-mcp](https://github.com/trueforge-studio/notasnet-mcp). Sigue sus instrucciones para instalarlo y agregarlo a Claude Code.
+2. El MCP de Notasnet, en su propio repositorio: [trueforge-studio/notasnet-mcp](https://github.com/trueforge-studio/notasnet-mcp). Instálalo y agrégalo a Claude Code siguiendo sus instrucciones; este proyecto lo usa pero no lo contiene.
 3. Una cuenta de apoderado en un colegio que use Notasnet. Inicias sesión tú; Claude nunca escribe tu contraseña.
 
 ## Cómo empezar

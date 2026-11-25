@@ -1,10 +1,4 @@
 # Datos de la familia: nunca se versionan
 colegio/
 
-# Herramientas locales (perfil de navegador, logs, cookies)
-.gstack/
 .DS_Store
-
-# Adjuntos y documentos del colegio
-*.pdf
-*.har
